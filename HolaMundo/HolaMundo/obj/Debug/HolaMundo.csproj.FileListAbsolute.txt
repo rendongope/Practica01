@@ -1,0 +1,6 @@
+C:\Users\pedro\Dropbox\GitHub\Practica01\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\pedro\Dropbox\GitHub\Practica01\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\pedro\Dropbox\GitHub\Practica01\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\pedro\Dropbox\GitHub\Practica01\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Dropbox\GitHub\Practica01\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\pedro\Dropbox\GitHub\Practica01\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
